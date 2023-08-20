@@ -1,4 +1,4 @@
-package questao1;
+package FactoryAndSingleton.questao1;
 
 public interface FabricanteCelular {
     public Celular constroiCelular(String modelo);

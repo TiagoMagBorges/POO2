@@ -1,4 +1,4 @@
-package questao1;
+package FactoryAndSingleton.questao1;
 
 public class Galaxy8 implements Celular{
     @Override

@@ -1,4 +1,4 @@
-package questao1;
+package FactoryAndSingleton.questao1;
 
 public class Samsung implements FabricanteCelular{
     public static String GALAXY8 = "Galaxy8";
