@@ -1,6 +1,6 @@
 package Decorator.questao1;
 
-public class ToppingDecorator implements  Pizza{
+public class ToppingDecorator implements Pizza{
     Pizza pizza;
 
     public ToppingDecorator(Pizza pizza){
